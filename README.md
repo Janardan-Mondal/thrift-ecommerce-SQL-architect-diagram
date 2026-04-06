@@ -23,3 +23,5 @@ I try to crate a structure on behalf the bellow elements
 
 ## ER Diagram
 ![ER Diagram](./diagram-export-4-6-2026-10_42_51-PM.png)
+
+[View ER Diagram](https://janardan-mondal.github.io/thrift-ecommerce-SQL-architect-diagram/)
